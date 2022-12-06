@@ -1,0 +1,7 @@
+This is my folder
+The terminal is how you navigate through your computer just using text keys without using the user interface.
+
+The difference between github and git is, git tracks changes in your code. While GitHub stores it.
+
+Github is used by us for sharing our codes, and also having a save space to store them just in case one day you machine fails you have you code saved in a safe space.
+
